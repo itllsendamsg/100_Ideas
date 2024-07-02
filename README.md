@@ -1,7 +1,7 @@
 ***
 
-# **1. The framework used for the project construction
-# and the management of dependencies.**
+# **1. The framework used for the project construction**
+# **and the management of dependencies.**
 
 
 ## **Date:** 2024-07-02
