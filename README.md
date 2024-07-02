@@ -27,8 +27,8 @@ it is exactly this framework that is going to be easier to apply.
 
 **Consequences:**
 The 100 Ideas project applies Apache Maven in order to build and manage dependencies.
-
-
+<br>
+<br>
 ***
 # **2. Java Framework**
 ***
@@ -69,8 +69,8 @@ so that there are more opportunities on the job market.
 The Spring and Spring Boot frameworks are going to be applied
 
 as the main frameworks for the 100 Ideas project.
-
-
+<br>
+<br>
 ***
 # **3. Further decisions**
 ***
