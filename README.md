@@ -50,10 +50,12 @@ as a Junior Java Developer.
 
 
 **Solutions**
+
 * Option 1: Spring Framework
 * Option 2: Jakarta EE
 
 **Decision**
+
 Both frameworks satisfy the requirements of the project.
 
 However, the Spring framework is much more popular in Poland,
@@ -61,6 +63,7 @@ However, the Spring framework is much more popular in Poland,
 so that there are more opportunities on the job market. 
 
 **Consequences**
+
 The Spring and Spring Boot frameworks are going to be applied
 
 as the main frameworks for the 100 Ideas project.
@@ -79,7 +82,7 @@ as the main frameworks for the 100 Ideas project.
 3. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230734/in/album-72177720318347751/)
 4. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53823899701/in/album-72177720318347751/)
 5. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230729/in/album-72177720318347751/)
-6.[100 Ideas](https://www.flickr.com/photos/144424911@N02/53822981517/in/album-72177720318347751/)
+6. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53822981517/in/album-72177720318347751/)
 7. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230694/in/album-72177720318347751/)
 8. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53823899651/in/album-72177720318347751/)
 9. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824138288/in/album-72177720318347751/)
