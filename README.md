@@ -78,15 +78,3 @@ as the main frameworks for the 100 Ideas project.
 
 
 1. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824337960/in/album-72177720318347751/)
-2. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824138368/in/album-72177720318347751/)
-3. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230734/in/album-72177720318347751/)
-4. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53823899701/in/album-72177720318347751/)
-5. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230729/in/album-72177720318347751/)
-6. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53822981517/in/album-72177720318347751/)
-7. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230694/in/album-72177720318347751/)
-8. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53823899651/in/album-72177720318347751/)
-9. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824138288/in/album-72177720318347751/)
-10. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230664/in/album-72177720318347751/)
-11. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824138293/in/album-72177720318347751/)
-12. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824230659/in/album-72177720318347751/)
-
