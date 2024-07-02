@@ -16,7 +16,7 @@ The solution should be integrated with Java 17 and compatible with IntelliJ IDEA
 * Option 1: Gradle
 * Option 2: Maven
 
-**Decision**
+**Decision:**
 Both frameworks are widely accepted and applied,
 
 designed by active communities, and they provide similar efficiency.
