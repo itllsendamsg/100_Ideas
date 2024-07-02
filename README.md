@@ -38,9 +38,11 @@ The 100 Ideas project applies Apache Maven in order to build and manage dependen
 **Status:** Accepted
 
 **Context:**
-We need to select a web framework in order to accelerate the speed
+We need to select a web framework in order
 
-the development of the 100 Ideas project.
+to accelerate the speed the development of
+
+the 100 Ideas project.
 
 The framework should be as available and popular as possible,
 
