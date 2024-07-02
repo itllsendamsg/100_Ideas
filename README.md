@@ -12,15 +12,15 @@
 We need assistance with the web project creation as well as the management of dependencies.
 The solution should be integrated with Java 17 and compatible with IntelliJ IDEA.
 
-## **Solutions:**
-### * Option 1: Gradle
-### * Option 2: Maven
+**Solutions:**
+* Option 1: Gradle
+* Option 2: Maven
 
-## **Decision**
-## Both frameworks are widely accepted and applied,
-## designed by active communities, and they provide similar efficiency.
-## Taking into consideration the team’s experience with Apache Maven,
-## it is exactly this framework that is going to be easier to apply.
+**Decision**
+Both frameworks are widely accepted and applied,
+designed by active communities, and they provide similar efficiency.
+Taking into consideration the team’s experience with Apache Maven,
+it is exactly this framework that is going to be easier to apply.
 
 ## **Consequences:**
 ## The 100 Ideas project applies Apache Maven in order to build and manage dependencies.
