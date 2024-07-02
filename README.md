@@ -4,13 +4,13 @@
 # **and the management of dependencies.**
 
 
-## **Date:** 2024-07-02
+**Date:** 2024-07-02
 
-## **Status:** Accepted
+**Status:** Accepted
 
-## **Context:**
-## We need assistance with the web project creation as well as the management of dependencies.
-## The solution should be integrated with Java 17 and compatible with IntelliJ IDEA.
+**Context:**
+We need assistance with the web project creation as well as the management of dependencies.
+The solution should be integrated with Java 17 and compatible with IntelliJ IDEA.
 
 ## **Solutions:**
 ### * Option 1: Gradle
