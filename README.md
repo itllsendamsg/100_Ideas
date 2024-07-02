@@ -53,12 +53,12 @@ so that its application would make it easier to find a job
 as a Junior Java Developer.
 
 
-**Solutions**
+**Solutions:**
 
 * Option 1: Spring Framework
 * Option 2: Jakarta EE
 
-**Decision**
+**Decision:**
 
 Both frameworks satisfy the requirements of the project.
 
@@ -66,7 +66,7 @@ However, the Spring framework is much more popular in Poland,
 
 so that there are more opportunities on the job market. 
 
-**Consequences**
+**Consequences:**
 
 The Spring and Spring Boot frameworks are going to be applied
 
@@ -76,7 +76,7 @@ as the main frameworks for the 100 Ideas project.
 <br>
 <br>
 ***
-# **3. Further decisions**
+# **3. Further decisions:**
 ***
 
 * CI/CD - Jenkins, Bamboo, GitHub Actions etc.
