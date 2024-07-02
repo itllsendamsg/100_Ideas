@@ -81,6 +81,5 @@ as the main frameworks for the 100 Ideas project.
 
 * CI/CD - Jenkins, Bamboo, GitHub Actions etc.
 * Databases - MySQL, PostgreSQL, Oracle Database etc.
-
-
-1. [100 Ideas](https://www.flickr.com/photos/144424911@N02/53824337960/in/album-72177720318347751/)
+* Application Prototype.
+[100 Ideas](https://www.flickr.com/photos/144424911@N02/53824337960/in/album-72177720318347751/)
