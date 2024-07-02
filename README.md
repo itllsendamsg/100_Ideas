@@ -32,7 +32,7 @@ The 100 Ideas project applies Apache Maven in order to build and manage dependen
 <br>
 <br>
 ***
-# **2. Java Framework**
+# **2. Java Framework.**
 ***
 
 **Date:** 2024-07-02
@@ -76,7 +76,7 @@ as the main frameworks for the 100 Ideas project.
 <br>
 <br>
 ***
-# **3. Further decisions:**
+# **3. Further decisions.**
 ***
 
 * CI/CD - Jenkins, Bamboo, GitHub Actions etc.
